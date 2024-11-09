@@ -16,6 +16,9 @@ namespace darsAX2202
 
 
             Console.WriteLine("a*b=" + (int)(a * b));
+
+            Console.WriteLine("a-b=" + (int)(a - b));
+
             Console.ReadKey();
 
 

@@ -6,3 +6,11 @@ D:\darsAX2202\darsAX2202\obj\Debug\darsAX2202.csproj.SuggestedBindingRedirects.c
 D:\darsAX2202\darsAX2202\obj\Debug\darsAX2202.csproj.CoreCompileInputs.cache
 D:\darsAX2202\darsAX2202\obj\Debug\darsAX2202.exe
 D:\darsAX2202\darsAX2202\obj\Debug\darsAX2202.pdb
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\bin\Debug\darsAX2202.exe.config
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\bin\Debug\darsAX2202.exe
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\bin\Debug\darsAX2202.pdb
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\obj\Debug\darsAX2202.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\obj\Debug\darsAX2202.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\obj\Debug\darsAX2202.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\obj\Debug\darsAX2202.exe
+C:\Users\MSI\Desktop\person2\darsAX2202\darsAX2202\obj\Debug\darsAX2202.pdb
